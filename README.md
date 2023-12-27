@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my own projects and some freelancing<br>I'm looking to collaborate with other devs 👨‍💻👩‍💻<br>I'm currently learning web backend development 🖥<br>Looking for team working and do some cool projects ✨
+I'm currently working on a MKT Agency and doing my own projects<br>I'm looking to collaborate with other devs 👨‍💻👩‍💻<br>I'm currently working on frontend web development 🖥<br>Looking for team working and do some cool projects ✨
 
 
 ## 🌐 Socials:
